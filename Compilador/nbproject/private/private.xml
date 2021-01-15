@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Angel/Documents/NetBeansProjects/Compilador/src/inter/Do.java</file>
+            <file>file:/C:/Users/Angel/Documents/NetBeansProjects/Compilador/src/inter/Instr.java</file>
+            <file>file:/C:/Users/Angel/Documents/NetBeansProjects/Compilador/src/inter/Sec.java</file>
+            <file>file:/C:/Users/Angel/Documents/NetBeansProjects/Compilador/src/inter/Constante.java</file>
+            <file>file:/C:/Users/Angel/Documents/NetBeansProjects/Compilador/src/inter/And.java</file>
+            <file>file:/C:/Users/Angel/Documents/NetBeansProjects/Compilador/src/inter/Rel.java</file>
+            <file>file:/C:/Users/Angel/Documents/NetBeansProjects/Compilador/src/inter/If.java</file>
+            <file>file:/C:/Users/Angel/Documents/NetBeansProjects/Compilador/src/inter/Arit.java</file>
+            <file>file:/C:/Users/Angel/Documents/NetBeansProjects/Compilador/src/inter/Nodo.java</file>
+            <file>file:/C:/Users/Angel/Documents/NetBeansProjects/Compilador/src/inter/Logica.java</file>
+            <file>file:/C:/Users/Angel/Documents/NetBeansProjects/Compilador/src/analizadorLexico/Token.java</file>
+            <file>file:/C:/Users/Angel/Documents/NetBeansProjects/Compilador/src/inter/Op.java</file>
+            <file>file:/C:/Users/Angel/Documents/NetBeansProjects/Compilador/src/analizadorLexico/Etiqueta.java</file>
+            <file>file:/C:/Users/Angel/Documents/NetBeansProjects/Compilador/src/main/Main.java</file>
+            <file>file:/C:/Users/Angel/Documents/NetBeansProjects/Compilador/src/inter/Temp.java</file>
+            <file>file:/C:/Users/Angel/Documents/NetBeansProjects/Compilador/src/analizadorLexico/Palabra.java</file>
+            <file>file:/C:/Users/Angel/Documents/NetBeansProjects/Compilador/src/inter/Acceso.java</file>
+            <file>file:/C:/Users/Angel/Documents/NetBeansProjects/Compilador/src/inter/Else.java</file>
+            <file>file:/C:/Users/Angel/Documents/NetBeansProjects/Compilador/src/inter/While.java</file>
+            <file>file:/C:/Users/Angel/Documents/NetBeansProjects/Compilador/src/inter/Est.java</file>
+            <file>file:/C:/Users/Angel/Documents/NetBeansProjects/Compilador/src/inter/EstElem.java</file>
+            <file>file:/C:/Users/Angel/Documents/NetBeansProjects/Compilador/src/analizadorLexico/AnalizadorLexico.java</file>
+            <file>file:/C:/Users/Angel/Documents/NetBeansProjects/Compilador/src/inter/Expr.java</file>
+            <file>file:/C:/Users/Angel/Documents/NetBeansProjects/Compilador/src/analizador/Analizador.java</file>
+            <file>file:/C:/Users/Angel/Documents/NetBeansProjects/Compilador/src/inter/Not.java</file>
+            <file>file:/C:/Users/Angel/Documents/NetBeansProjects/Compilador/src/analizadorLexico/Num.java</file>
+            <file>file:/C:/Users/Angel/Documents/NetBeansProjects/Compilador/src/Simbolos/Tipo.java</file>
+            <file>file:/C:/Users/Angel/Documents/NetBeansProjects/Compilador/src/Simbolos/Ent.java</file>
+            <file>file:/C:/Users/Angel/Documents/NetBeansProjects/Compilador/src/inter/Id.java</file>
+            <file>file:/C:/Users/Angel/Documents/NetBeansProjects/Compilador/src/inter/Or.java</file>
+            <file>file:/C:/Users/Angel/Documents/NetBeansProjects/Compilador/src/analizadorLexico/Real.java</file>
+            <file>file:/C:/Users/Angel/Documents/NetBeansProjects/Compilador/src/inter/Break.java</file>
+            <file>file:/C:/Users/Angel/Documents/NetBeansProjects/Compilador/src/Simbolos/Arreglo.java</file>
+            <file>file:/C:/Users/Angel/Documents/NetBeansProjects/Compilador/src/inter/Unario.java</file>
+        </group>
+    </open-files>
+</project-private>
